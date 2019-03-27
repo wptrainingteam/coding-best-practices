@@ -17,13 +17,13 @@ The students should have at least some knowledge about the topics listed above. 
 
 ## Objectives
 
-*   How to plan the markup for a costum WordPress loop?
+*   How to plan the markup for a custom WordPress loop?
 *   How to add the WordPress PHP snippets, like the_author() etc.
-*   How to comment your markup and your PHP.
-*   Learn to write readable, and beautifull code.
+*   How to comment on your markup and your PHP.
+*   Learn to write readable, and beautiful code.
 *   Link correctly to images.
 *   Make translation ready text strings.
-*   Knowledge of best practise.
+*   Knowledge of best practice.
 
 ## Assets
 
