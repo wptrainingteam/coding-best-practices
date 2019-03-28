@@ -17,13 +17,13 @@ The students should have at least some knowledge about the topics listed above. 
 
 ## Objectives
 
-*   How to plan the markup for a costum WordPress loop?
+*   How to plan the markup for a custom WordPress loop?
 *   How to add the WordPress PHP snippets, like the_author() etc.
-*   How to comment your markup and your PHP.
-*   Learn to write readable, and beautifull code.
+*   How to comment on your markup and your PHP.
+*   Learn to write readable, and beautiful code.
 *   Link correctly to images.
 *   Make translation ready text strings.
-*   Knowledge of best practise.
+*   Knowledge of best practice.
 
 ## Assets
 
@@ -86,3 +86,14 @@ A short quiz for students to evaluate their retention of the material presented.
 4.  Option
 
 **Answer:** 3\. Correct answer
+
+## Quiz
+
+What is the best way to use **else if** condition.
+1.  else if
+2.  if else
+3.  elseif
+
+**Answer:** 3\. Correct answer because **else if** is not compatible with the colon syntax for **if|elseif** blocks. For this reason, use **elseif** for conditionals. 
+
+
