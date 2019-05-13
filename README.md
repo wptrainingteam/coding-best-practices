@@ -96,4 +96,13 @@ What is the best way to use **else if** condition.
 
 **Answer:** 3\. Correct answer because **else if** is not compatible with the colon syntax for **if|elseif** blocks. For this reason, use **elseif** for conditionals. 
 
+ **How to create dynamic image path in WordPress theme files?**
+
+1. <?php bloginfo('template_url'); ?>
+2.  <?php echo site_url(); ?>
+3.  <?php get_stylesheet_directory_uri(); ?>
+
+
+**Answer:** 1\. <?php bloginfo('template_url'); ?>
+
 
