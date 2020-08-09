@@ -2,7 +2,7 @@
 
 ## Description
 
-Teach WordPress Coding Best Practise. Focus on good WordPress code, with semantic markup and WordPress. The principles in the lesson are valid for all code. As a sample the class will code a plugin with a "_Hello World_" shortcode. The plugins can display an image, and the text strings will be translation ready.  
+Teach WordPress Coding Best Practice. Focus on good WordPress code, with semantic markup and WordPress. The principles in the lesson are valid for all code. As a sample the class will code a plugin with a "_Hello World_" shortcode. The plugins can display an image, and the text strings will be translation ready.  
 
 ## Prerequisite Skills
 
