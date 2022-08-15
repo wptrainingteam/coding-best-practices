@@ -51,19 +51,19 @@ If WordPress is up and running it's ok. If not:
 3.  Check that MySQL is running.
 4.  Try to load [http://localhost/wordpress](http://localhost/wordpress)  again.
 
-Mac, Unix and Linux users should make sure, that the **wp-config** folder is read-and-writable for _everyone. _Otherwise you may not be able to edit your files, or install themes and plugins. I you don't know whether you can read / write or not, try this: open ../wp-config/plugins/ and create a file, give it the name z.txt or similar. If you're allowed to create the file, it's ok. Since you probably don't want the file any more, delete it again. If you can't create the file, check the folder settings.
+Mac, Unix and Linux users should make sure, that the **wp-config** folder is read-and-writable for _everyone. _Otherwise you may not be able to edit your files, or install themes and plugins. You don't know whether you can read / write or not, try this: open ../wp-config/plugins/ and create a file, give it the name z.txt or similar. If you're allowed to create the file, it's ok. Since you probably don't want the file any more, delete it again. If you can't create the file, check the folder settings.
 
 ## Teacher Notes
 
 A bulleted list of any handy tips or information for the instructor.
 
-*   In general students with Mac computers have difficulties wih read-write-permissions.
+*   In general students with Mac computers have difficulties with read-write-permissions.
 *   Go to the students with a Mac, and make sure that the folder **wp-config** is readable and writable.
 *   Also make sure that all the permissions are redundant ( i.e. the permissions must be valid for all files and folders inside wp-config ).
 
 ## Hands-on Walkthrough
 
-The lesson, written in script form with screenshots and live demo instructions to be used by the instructor in a live classroom/workshop setting.
+The lesson is written in script form with screenshots and live demo instructions to be used by the instructor in a live classroom/workshop setting.
 
 ### Section Heading for Walkthrough
 
@@ -89,7 +89,7 @@ A short quiz for students to evaluate their retention of the material presented.
 
 ## Quiz
 
-What is the best way to use **else if** condition.
+What is the best way to use **else if** condition?
 1.  else if
 2.  if else
 3.  elseif
